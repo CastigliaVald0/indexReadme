@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 ## Hey! I'm Valdo 👋<br><br>I'm a passionate **backend developer** who loves crafting secure, efficient, and scalable systems.  <br>Currently exploring the world of **cybersecurity** and expanding my backend toolkit.  <br><br>🔭 Focused on backend development and system architecture  <br>🌱 Learning Python and diving deeper into cybersecurity fundamentals  <br>💻 Love working on practical, data-driven projects  <br>🎯 Always open to new ideas and challenges to build something useful  <br>📍 From Uruguay<br>
 
@@ -16,3 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=CastigliaVald0&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div/>
