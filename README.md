@@ -5,6 +5,7 @@
 ## Hey! I'm Valdo 👋  
 I'm a passionate **backend developer** who loves crafting secure, efficient, and scalable systems.  
 Currently exploring the world of **cybersecurity** and expanding my backend toolkit.  
+🎓 I'm a **Computer Science student (Licenciatura en Informática)** at **Universidad de la Empresa (UDE)**.  
 
 <div align="left">
 
@@ -30,7 +31,14 @@ Currently exploring the world of **cybersecurity** and expanding my backend tool
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+---
+
+# 📚 Education & Certifications:
+
+🎓 **Licenciatura en Informática** – Universidad de la Empresa (UDE), Uruguay  
+🧠 **Cybersecurity Analyst/Fundamentals** – self-learning & online training, Cursera
+⚙️ Constantly improving my skills in backend development and secure systems design  
 
 ---
 
@@ -44,6 +52,13 @@ Currently exploring the world of **cybersecurity** and expanding my backend tool
 
 ### 🔝 Last Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=CastigliaVald0&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+
+# 🔗 Connect with Me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdocastiglia70@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CastigliaVald0)
 
 ---
 
