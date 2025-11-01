@@ -36,9 +36,13 @@ Currently exploring the world of **cybersecurity** and expanding my backend tool
 
 # 📚 Education & Certifications:
 
+<div align="left">
+
 🎓 **Licenciatura en Informática** – Universidad de la Empresa (UDE), Uruguay  
-🧠 **Cybersecurity Analyst/Fundamentals** – self-learning & online training, Cursera
+🧠 **Cybersecurity Analyst/Fundamentals** – self-learning & online training, Cursera<br/>
 ⚙️ Constantly improving my skills in backend development and secure systems design  
+
+<div/>
 
 ---
 
